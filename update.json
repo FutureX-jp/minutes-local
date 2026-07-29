@@ -2,9 +2,9 @@
   "version": "17.3",
   "notes": "起動できなかったときに原因が残り、自動でこちらへ送られるようにしました。自動更新にも対応（録画中は更新しません）",
   "runtime": "eaf9b89e7587",
-  "patch_url": "https://github.com/FutureX-jp/minutes-local/releases/download/v17.3/Minutes_patch_v17.3.zip",
+  "patch_url": "https://github.com/FutureX-jp/minutes-local/releases/download/v17.3/Minutes_Update_v17.3.zip",
   "patch_sha256": "85514e1904a6f85df290054d01d7ba111240caac264cf0120d9f6190e36795f0",
-  "full_url": "https://github.com/FutureX-jp/minutes-local/releases/download/v17.3/Minutes_v17.3.zip",
+  "full_url": "https://github.com/FutureX-jp/minutes-local/releases/download/v17.3/Minutes_Setup_v17.3.zip",
   "full_sha256": "5ec6f1b2d09def6edb3b0f8b2683e3fd8fa6df4246ba7302174371ae5182b2d3",
   "revoked": []
 }
